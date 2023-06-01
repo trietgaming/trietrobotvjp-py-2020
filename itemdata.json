@@ -1,0 +1,448 @@
+{
+    "0000":{
+        "name":"Cần câu cá",
+        "durable":35,
+        "price":1000,
+        "emoji":"<:cancauthuong:876424458154418186>",
+        "max_amount":1,
+        "useable":false
+    },
+    "0001":{
+        "name":"Quái vật hồ Loch Ness",
+        "price":1024380,
+        "emoji":"<:qvhln:876756832767574057>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0002":{
+        "name":"Rùa Hoàn Kiếm",
+        "price":254000,
+        "emoji":"<:curua:876838390799171650>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0003":{
+        "name":"Cá Koi",
+        "price":93000,
+        "emoji":"<:koi:876724581560373259>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0004":{
+        "name":"Cá sấu",
+        "price":18000,
+        "emoji":"<:casau:876726058106372116>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0005":{
+        "name":"Tôm càng xanh",
+        "price":4700,
+        "emoji":"<:tomcangxanh:876762252664012860>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0006":{
+        "name":"Ba ba",
+        "price":3500,
+        "emoji":"<:baba:876763355157757962>",
+        "max_amount":0,
+        "useable":false
+    },
+     "0007":{
+        "name":"Lươn",
+        "price":2000,
+        "emoji":"<:luon:876723253337542656>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0008":{
+        "name":"Cua đồng",
+        "price":1050,
+        "emoji":"<:cuadong:876779551471042570>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0020":{
+        "name":"Cá lóc",
+        "price":350,
+        "emoji":"<:caloc:876722203754917929>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0021":{
+        "name":"Cá rô",
+        "price":150,
+        "emoji":"<:caro:876722229549875211>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0022":{
+        "name":"Cá lìm kìm",
+        "price":20,
+        "emoji":"<:calimkim:876757708609564692>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0019":{
+        "name":"Rác",
+        "price": 1,
+        "emoji":"<:garbage:876702830642200608>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0009":{
+        "name":"Thủy Tinh",
+        "price": 1024380,
+        "emoji":"<:thuytinh:877107867705040916>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0010":{
+        "name":"Cá voi xanh",
+        "price": 360000,
+        "emoji":"<:cavoixanh:877110098919579649>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0011":{
+        "name":"Cá mập đầu búa",
+        "price": 220000,
+        "emoji":"<:camapdaubua:877130275568627762>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0012":{
+        "name":"Cá voi sát thủ",
+        "price": 82000,
+        "emoji":"<:cavoisatthu:877129575476391947>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0013":{
+        "name":"Cá mập",
+        "price": 30000,
+        "emoji":"<:camap:877128968313135134>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0014":{
+        "name":"Cá heo",
+        "price": 17500,
+        "emoji":"<:caheo:877128484764385351>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0024":{
+        "name":"Cá Piranha",
+        "price": 8000,
+        "emoji":"<:piranha:877127914070634506>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0023":{
+        "name":"Cua hoàng đế",
+        "price": 7800,
+        "emoji":"<:cuahoangde:877125627348672542>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0015":{
+        "name":"Tôm hùm",
+        "price": 6400,
+        "emoji":"<:tomhum:877124814224130078>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0016":{
+        "name":"Cá đuối",
+        "price": 3400,
+        "emoji":"<:caduoi:877123528166633532>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0017":{
+        "name":"Mực",
+        "price": 2700,
+        "emoji":"<:muc:877122749775085568>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0018":{
+        "name":"Cá ngừ",
+        "price": 2000,
+        "emoji":"<:cangu:877121926408048641>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0025":{
+        "name":"Bạch tuộc",
+        "price": 1100,
+        "emoji":"<:bachtuoc:877121002797137920>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0026":{
+        "name":"Sứa",
+        "price": 300,
+        "emoji":"<:sua:877114298101542913>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0027":{
+        "name":"Cá hồi",
+        "price": 9500,
+        "emoji":"<:cahoi:877119612070789130>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0028":{
+        "name":"Sao biển",
+        "price": 200,
+        "emoji":"<:saobien:877112832477511721>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0029":{
+        "name":"Ghẹ",
+        "price": 300,
+        "emoji":"<:ghe:877117636838842389>",
+        "max_amount":0,
+        "useable":false
+    },
+     "0030":{
+        "name":"Nghêu",
+        "price": 100,
+        "emoji":"<:ngheu:877115567352479774>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0031":{
+        "name":"Bào ngư",
+        "price": 6000,
+        "emoji":"<:baongu:877116639332683776>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0032":{
+        "name":"Cá cơm",
+        "price": 35,
+        "emoji":"<:cacom:877112381480788038>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0033":{
+        "name":"Cá thu",
+        "price": 400,
+        "emoji":"<:cathu:877111255339532288>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0034":{
+        "name":"Mồi câu cá",
+        "price": 10,
+        "emoji":"<:moicau:877132339585626132>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0035":{
+        "name":"Thuyền đánh cá nhỏ",
+        "price": 3000,
+        "durable":80,
+        "emoji":"<:thuyennho:877131605674717195>",
+        "max_amount":1,
+        "useable":false
+    },
+    "0036":{
+        "name":"Tàu đánh cá lớn",
+        "price": 46000,
+        "durable":300,
+        "emoji":"<:taucalon:877133054991278140>",
+        "max_amount":1,
+        "useable":false
+    },
+    "9999":{
+        "name":"SUPREME SUPER DRIP Jacket",
+        "price": 199999999,
+        "emoji":"<:superdripoutfit:877177607622377512>",
+        "max_amount":9999,
+        "useable":true
+    },
+    "0037":{
+        "name":"Colt Anaconda (.44 Magnum)",
+        "durable":750,
+        "price": 140000,
+        "emoji":"<:coltanaconda:879733192003833937>",
+        "max_amount":1,
+        "useable":false
+    },
+    "0038":{
+        "name":"Đạn .44 Magnum",
+        "price": 500,
+        "emoji":"<:44magnum:879735156800372777>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0039":{
+        "name":"Mosin Nagant (7.62x54mmR)",
+        "price": 700000,
+        "emoji":"<:mosinnagant:879740468441808946>",
+        "max_amount":1,
+        "useable":false,
+        "durable":1100
+    },
+    "0040":{
+        "name":"Đạn 7.62x54mmR",
+        "price": 850,
+        "emoji":"<:762x54mmR:879739401066909717>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0041":{
+        "name":"Khỉ",
+        "price": 20000,
+        "emoji":"<:monkey:881114803316346911>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0042":{
+        "name":"Nhím",
+        "price": 3000,
+        "emoji":"<:nhim:881115746145542185>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0043":{
+        "name":"Cò",
+        "price": 2000,
+        "emoji":"<:co:881116325009829989>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0044":{
+        "name":"Chim bồ câu",
+        "price": 2500,
+        "emoji":"<:chimbocau:881116664773611530>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0045":{
+        "name":"Đại bàng",
+        "price": 11000,
+        "emoji":"<:daibang:881118452822200370>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0046":{
+        "name":"Đà điểu",
+        "price": 35000,
+        "emoji":"<:dadieu:881119086640250950>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0047":{
+        "name":"Voi",
+        "price": 210000,
+        "emoji":"<:voi:881119417440829450>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0048":{
+        "name":"Sư tử",
+        "price": 56000,
+        "emoji":"<:lion:881119741580836874>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0049":{
+        "name":"Tê giác",
+        "price": 115000,
+        "emoji":"<:tegiac:881120107080847370>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0050":{
+        "name":"Ngựa vằn",
+        "price": 27000,
+        "emoji":"<:nguavan:881120440221855744>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0051":{
+        "name":"Hươu cao cổ",
+        "price": 65000,
+        "emoji":"<:huucaoco:881120902291529768>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0052":{
+        "name":"Rắn hổ mang",
+        "price": 18000,
+        "emoji":"<:ranhomang:881121484691611678>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0053":{
+        "name":"Nai",
+        "price": 8000,
+        "emoji":"<:nai:881123977970458644>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0054":{
+        "name":"Linh cẩu",
+        "price": 15000,
+        "emoji":"<:linhcau:881125192821268491>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0055":{
+        "name":"Báo đốm",
+        "price": 45000,
+        "emoji":"<:baodom:881125703226130482>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0056":{
+        "name":"Lợn rừng",
+        "price": 5000,
+        "emoji":"<:heorung:881126089127256086>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0057":{
+        "name":"Sơn Tinh",
+        "price": 3120940,
+        "emoji":"<:sontinh:881127146293194782>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0058":{
+        "name":"Gà rừng",
+        "price": 1200,
+        "emoji":"<:garung:881129016201973781>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0059":{
+        "name":"Trâu rừng",
+        "price": 29500,
+        "emoji":"<:traurung:881129213825015808>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0060":{
+        "name":"Dê",
+        "price": 6000,
+        "emoji":"<:goat:881131240743391282>",
+        "max_amount":0,
+        "useable":false
+    },
+    "0061":{
+        "name":"Giấy công nhận giải xổ số",
+        "price": 0,
+        "emoji":"<:xoso:906527272960426015>",
+        "max_amount":0,
+        "useable":false
+    }
+}

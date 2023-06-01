@@ -1,0 +1,20 @@
+{
+  "0037":{
+        "ammo":"0038",
+        "o_ammo":6,
+        "c_ammo":0,
+        "damage":60,
+        "m_damage":30,
+        "accuracy":65,
+        "disabled":false
+    },
+    "0039":{
+        "ammo":"0040",
+        "damage":200,
+        "m_damage":150,
+        "o_ammo":5,
+        "c_ammo":0,
+        "accuracy":85,
+        "disabled":false
+    }
+}
